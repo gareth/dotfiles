@@ -87,6 +87,7 @@
 [merge]
   summary = true
   verbosity = 1
+  defaultToUpstream = true
 [apply]
   whitespace = nowarn
 [branch]
